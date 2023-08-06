@@ -9,12 +9,8 @@
 ![raismaulana's github stats](https://github-readme-stats.vercel.app/api?username=raismaulana&count_private=true&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 ---
 
-### <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" /> Git profile Trophies:
-![raismaulana's profile trophy](https://github-profile-trophy.vercel.app/?username=raismaulana&theme=juicyfresh&no-bg=true)
----
-
 ### <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30" /> Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raismaulana&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deossy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
