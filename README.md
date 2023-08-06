@@ -6,7 +6,7 @@
 ---
 
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Git Activeness:
-![raismaulana's github stats](https://github-readme-stats.vercel.app/api?username=raismaulana&count_private=true&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+![Dessy's github stats](https://github-readme-stats.vercel.app/api?username=deossy&count_private=true&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 ---
 
 ### <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30" /> Languages:
