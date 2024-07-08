@@ -1,6 +1,6 @@
 ## Hello world! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Dessy Anggraeni. 
 ## <p align="left"> <img src="https://komarev.com/ghpvc/?username=deossy&label=Profile%20views&color=0e75b6&style=flat" alt="deossy" /> </p>
-## <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="30px" alt="Programmer"/> I'm Software Engineer.
+## <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="30px" alt="Programmer"/> I'm Front-end Developer.
 - Focusing in JavaScript, Kotlin and Java
 - Experience in Web/Android Development
 ---
